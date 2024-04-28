@@ -17,7 +17,7 @@ const About = () => {
                 reiciendis placeat asperiores! Facilis vero nobis debitis, tenetur vitae cupiditate 
                 illum qui fugiat tempora assumenda veniam excepturi aperiam culpa molestias magnam 
                 laborum provident nostrum minus, iusto ad, modi nesciunt odio! 
-              Rem sapiente eligendi minima sunt ullam? Laboriosam porro dolorem vel cupiditate modi?
+              Rem sapiente eligendi minima sunt ullam? Laboriosam porro dolorem vel cupiditate modi lore  ipsum?
             </p>
             <NavLink to="/contact" className="btn btn-outline-primary px-3">Contact Us</NavLink>
           </div>

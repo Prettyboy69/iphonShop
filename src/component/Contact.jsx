@@ -34,7 +34,7 @@ const Contact = () => {
 
                 <div class="mb-3">
                   <label for="exampleFormControlInput1" class="form-label">
-                    Email address
+                    Email Address
                   </label>
                   <input
                     type="email"
@@ -45,7 +45,7 @@ const Contact = () => {
                 </div>
                 <div class="mb-3">
                   <label for="exampleFormControlTextarea1" class="form-label">
-                    Example textarea
+                    Example Textarea
                   </label>
                   <textarea
                     class="form-control"
@@ -54,7 +54,7 @@ const Contact = () => {
                   ></textarea>
                 </div>
                 <button type="submit" className=" btn btn-outline-primary">
-                  Send message
+                  Send Message
                 </button>
               </form>
             </div>
